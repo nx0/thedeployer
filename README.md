@@ -6,7 +6,7 @@ absolute control of all your machines doing absolutely nothing....
 
 **thedeployer** is only useful for:
 * deploy machines in your infrastructure.
-* get the status of your machines running in your own cloud... er.. environment.
+* get the status of your machines running in your own cloud... er.. [insert buzzword].
 * perform basic actions on machines like stop,start,....
 
 **thedeployer** may be useful if your environment is static and if you need to deploy several machines at the begging
